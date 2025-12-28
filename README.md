@@ -1,19 +1,18 @@
 # Hi there , I'm Kola Gagan👋
 
 ## About
-I am currently focusing on Spring framework. A beginner contributor at Open Source.
-
 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
+I’m currently learning GOLang.
 
-[LinkedIn](www.linkedin.com/in/gagankola)  [Twitter](https://twitter.com/Gagan_kola)
+[LinkedIn](www.linkedin.com/in/gagankola) 
 
 <!--
 **gagan0207/gagan0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning GOLang
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
